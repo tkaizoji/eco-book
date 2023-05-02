@@ -1,11 +1,11 @@
 --- 
-title: "A Minimal Book Example"
+title: "Book on Eco-book"
 author: "Taisei Kaizoji"
 date: "2023-03-14"
 site: bookdown::bookdown_site
 documentclass: book
 bibliography: [book.bib, packages.bib]
-# url: your book url like https://bookdown.org/yihui/bookdown
+url: https://github.com/tkaizoji/eco-book
 # cover-image: path to the social sharing image like images/cover.jpg
 description: |
   This is a minimal example of using the bookdown package to write a book.
